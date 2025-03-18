@@ -5,6 +5,14 @@ title: "Textiles hoy"
 This is a Quarto website.
 intruduccion
 inicios de textiles
+para lograr lo mejor
+
+
+en Galia Textil
+
+
+parque tlaxcala
+
 
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
